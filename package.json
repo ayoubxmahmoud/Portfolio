@@ -1,0 +1,46 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">\r   Portfolio Website - v2.0<br/>\r   <a href=\"https://mahmoud-portfolio.vercel.app/\" target=\"_blank\">mahmoud999.tech</a>\r </h2>\r <div align=\"center\">\r   <img alt=\"Demo\" src=\"./Images/readme-img1.png\" />\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "ayoub mahmoud",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^3.1.14",
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.0",
+    "@testing-library/user-event": "^14.5.1",
+    "axios": "^1.6.1",
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
+    "react-dom": "^18.2.0",
+    "react-github-calendar": "^4.0.2",
+    "react-icons": "^4.11.0",
+    "react-parallax-tilt": "^1.7.173",
+    "react-pdf": "^7.5.1",
+    "react-router-dom": "^6.18.0",
+    "react-scripts": "^5.0.1",
+    "react-tsparticles": "^2.12.2",
+    "typewriter-effect": "^2.21.0",
+    "web-vitals": "^3.5.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
