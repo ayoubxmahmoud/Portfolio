@@ -107,7 +107,7 @@ function Projects() {
               built with Kotlin and Firebase integration. This comprehensive solution features distinct 
               Customer and Admin areas. The Admin space boasts a dynamic dashboard for visualizing and managing 
               contract data, providing a streamlined and user-friendly experience for robust contract oversight and assurance."
-              ghLink="https://github.com/ayoubxmahmoud/Mobile_App-Gestion_Contrats_Assurance"
+              ghLink="https://github.com/ayoubxmahmoud/Android_App_Gestion_Contrats_Assurance"
             />
           </Col>
         </Row>
