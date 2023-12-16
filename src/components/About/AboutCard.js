@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Greetings, everyone! I'm <span className="purple">Ayoub Mahmoud</span> hailing from Agadir, Morocco.
-            Armed with a bachelor's degree in mathematics and computing,
+            Armed with a bachelor's degree in mathematics and computer science,
             my current focus lies in pursuing a career as a Full Stack Web Developer.
             <br />
             <br /> 
